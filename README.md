@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**Sophie31809/Sophie31809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 <!--
+
+**Sophie31809/Sophie31809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
